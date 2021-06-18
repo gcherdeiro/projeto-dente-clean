@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    margin-left: 35px;
+    color: white;
+    font-size: 16px;
+}
+
+h1, h2{
+    margin: 0;
+    color: #5999A9;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+p{
+    margin: 20px 0;
+    font-size: 16px;
+    color: #888888;
+}
+
+ul{
+    padding: 0;
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+li{
+    margin: 20px 0;
+    font-size: 14px;
+    color: #888888;
+    text-align: justify;
+}
+
+.quem-somos{
+    margin-top: 50px;
+}
+
+.topo{
+    max-width: 100%;
+    background-color: #396793;
+    height: auto;
+    padding: 13px 0;
+}
+
+.banner1 img{
+        width: 100%;
+}
+
+.quem-somos img{
+    width: 100%;
+}
+
+.servicos{
+    margin-top: 50px;
+}
+
+.servicos img{
+    margin-top: 20px;
+}
+
+.banner2 img{
+    width: 100%;
+    margin-top: 40px;
+}
+
+.contato{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+label{
+    color: #888888;
+}
+
+input, textarea{
+    border: none;
+    background-color: #EEEEEE;
+    width: 350px;
+}
+
+textarea{
+    width: 500px;
+    height: 160px;
+}
+
+button{
+    width: 120px;
+    margin-top: 10px;
+}
+
+footer{
+    height: 66px;
+    background-color: #003870;
+}
+
+footer p{
+    font-size: 14px;
+    color: white;
+    padding-top: 25px;
+}
